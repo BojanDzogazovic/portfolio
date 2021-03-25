@@ -159,7 +159,7 @@ p {
 
 .chaptertext {
   font-family: Poppins, cursive;
-  padding: 25px;
+  padding: 50px 25px;
   color: #061b40;
 }
 
@@ -272,6 +272,10 @@ footer p {
   #bojan {
     width: 40vw;
     right: 0;
+  }
+
+  .chaptertext {
+    padding: 25px;
   }
 }
 
