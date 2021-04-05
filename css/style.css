@@ -273,6 +273,7 @@ footer p {
     height: 170px;
     padding: 15px;
   }
+
 }
 
 @media (max-width: 950px) {
@@ -283,6 +284,10 @@ footer p {
 
   .chaptertext {
     padding: 25px;
+  }
+
+   .typewriter {
+  padding: 0;
   }
 }
 
